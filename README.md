@@ -1,4 +1,4 @@
-# Grimoire
+# Grimoire-CLI
 
 > **gri·moire** /ɡrɪmˈwɑːr/ *noun*  
 > A book of magic spells and invocations.
