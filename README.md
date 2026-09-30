@@ -3,7 +3,7 @@
 > **gri·moire** /ɡrɪmˈwɑːr/ *noun*  
 > A book of magic spells and invocations.
 
-*I am currently rewatching **Black Clover** and was inspired to build something related. In the anime, mages channel their raw mana(magic) into spells inscribed within their grimoires. This project applies that same concept to developers by taking unstructured, messy prompts and structuring them through TypeSafe Jev to summon your own specialized local agent skills.*
+*I am currently rewatching **Black Clover** and felt like I had to build something related. In the anime, mages channel their raw mana(magic) into spells inscribed within their grimoires. This project applies that same concept to developers by taking unstructured, messy prompts and structuring them through TypeSafe Jev to summon your own specialized local agent skills.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
